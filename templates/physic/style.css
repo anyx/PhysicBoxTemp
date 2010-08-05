@@ -1,0 +1,26 @@
+/* CSS Document */
+
+body {background:url(images/body-fon.png) repeat-x top #3f6b8e; width:100%;}
+#box { background:url(images/illustration.png) no-repeat top; width:1073px; height:775px; margin:0px auto;}
+#board-top {background:url(images/board-top.png) no-repeat top; width:832px; height:36px; margin:0px auto;}
+#board-fon {background:url(images/board-fon.png) repeat-y top center; width:832px; height:500px; margin:0px auto;}
+#board-handle {background:url(images/board-handle.png) no-repeat top center; width:832px; height:33px; margin:0px auto;}
+#left-menu {background:url(images/left-menu.png) no-repeat right top; width:200px; height:133px; margin:300px 0px 0px -80px; float:left;}
+#content {padding:40px 150px;}
+#pillar {background:url(images/pillar.png) no-repeat top center; width:14px; height:36px; margin:0px auto;}
+#spring {background:url(images/spring.png) no-repeat top center; width:75px; height:205px; margin:0px auto;}
+#load {background:url(images/load.png) no-repeat top center; width:53px; height:79px; margin:0px auto;}
+#graph {background:url(images/graph.png) no-repeat left top; width:272px; height:175px; margin:30px 0px 0px -14px;}
+
+/* -------------  Typography   ------------- */
+
+body, p, h1, h2, h3, li, span, a {font-family:Arial, Helvetica, sans-serif; font-weight:normal; line-height:14px;}
+p, a, span, li {font-size:12px;}
+
+
+#left-menu li, #left-menu a, #left-menu h3 {color:#fff; font-weight:bolder; text-decoration:none;}
+#left-menu a:hover {text-shadow: 0 0 3px #71faff}
+#left-menu h3 {margin:20px 0px 18px 10px;}
+#left-menu li {margin:8px 0px 5px 100px;}
+
+/* ----------------------------------------- */
